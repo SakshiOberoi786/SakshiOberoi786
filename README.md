@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Science.
+- 🔭 I’m currently working on Data Science projects for enhancing my knowledge about data science.
 - 🌱 I’m currently learning Python and Statistics for Data Science.
 - 👯 I’m looking to collaborate on data science projects. I want to learn more about more about data science.
 - 😄 Pronouns: She
